@@ -1,0 +1,15 @@
+C:\Users\Bartek\Documents\VS Code\bin\Debug\net7.0\VS Code.exe
+C:\Users\Bartek\Documents\VS Code\bin\Debug\net7.0\VS Code.deps.json
+C:\Users\Bartek\Documents\VS Code\bin\Debug\net7.0\VS Code.runtimeconfig.json
+C:\Users\Bartek\Documents\VS Code\bin\Debug\net7.0\VS Code.dll
+C:\Users\Bartek\Documents\VS Code\bin\Debug\net7.0\VS Code.pdb
+C:\Users\Bartek\Documents\VS Code\obj\Debug\net7.0\VS Code.csproj.AssemblyReference.cache
+C:\Users\Bartek\Documents\VS Code\obj\Debug\net7.0\VS Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartek\Documents\VS Code\obj\Debug\net7.0\VS Code.AssemblyInfoInputs.cache
+C:\Users\Bartek\Documents\VS Code\obj\Debug\net7.0\VS Code.AssemblyInfo.cs
+C:\Users\Bartek\Documents\VS Code\obj\Debug\net7.0\VS Code.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Documents\VS Code\obj\Debug\net7.0\VS Code.dll
+C:\Users\Bartek\Documents\VS Code\obj\Debug\net7.0\refint\VS Code.dll
+C:\Users\Bartek\Documents\VS Code\obj\Debug\net7.0\VS Code.pdb
+C:\Users\Bartek\Documents\VS Code\obj\Debug\net7.0\VS Code.genruntimeconfig.cache
+C:\Users\Bartek\Documents\VS Code\obj\Debug\net7.0\ref\VS Code.dll
